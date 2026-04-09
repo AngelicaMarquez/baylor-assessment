@@ -1,0 +1,66 @@
+[
+  {
+    "hgnc_id": "HGNC:7060",
+    "hgnc_gene_name": "matrix Gla protein",
+    "gene_aliases": "",
+    "hg38_coordinates": "chr12:14880864-14887639",
+    "hg19_coordinates": "chr12:15034115-15038860",
+    "disease": "total joint arthroplasty | genetic disorder | Short palm"
+  },
+  {
+    "hgnc_id": "HGNC:13394",
+    "hgnc_gene_name": "NPHS2 stomatin family member, podocin",
+    "gene_aliases": "SRN1 | PDCN",
+    "hg38_coordinates": "chr1:179550494-179575952",
+    "hg19_coordinates": "chr1:179519674-179545087",
+    "disease": "nephrotic syndrome | nephrotic syndrome, type 2 | familial idiopathic steroid-resistant nephrotic syndrome | focal segmental glomerulosclerosis | genetic disorder | Nephrotic range proteinuria | congenital nephrotic syndrome, Finnish type | Proteinuria"
+  },
+  {
+    "hgnc_id": "HGNC:2204",
+    "hgnc_gene_name": "collagen type IV alpha 3 chain",
+    "gene_aliases": "",
+    "hg38_coordinates": "chr2:227164624-227314792",
+    "hg19_coordinates": "chr2:228029281-228179508",
+    "disease": "autosomal dominant Alport syndrome | Alport syndrome 3b, autosomal recessive | autosomal recessive Alport syndrome | Alport syndrome"
+  },
+  {
+    "hgnc_id": "HGNC:19903",
+    "hgnc_gene_name": "Ras related GTP binding D",
+    "gene_aliases": "DKFZP761H171 | bA11D8.2.1",
+    "hg38_coordinates": "chr6:89364616-89412735",
+    "hg19_coordinates": "chr6:90074355-90121989",
+    "disease": "hypomagnesemia 7, renal, with or without dilated cardiomyopathy | cardiomyopathy | nephrocalcinosis | heart disease | heart failure | Abnormal nasolacrimal system morphology | genetic disorder"
+  },
+  {
+    "hgnc_id": "HGNC:11621",
+    "hgnc_gene_name": "HNF1 homeobox A",
+    "gene_aliases": "HNF1 | LFB1 | HNF1\u03b1 | MODY3 | TCF1",
+    "hg38_coordinates": "chr12:120978543-121002512",
+    "hg19_coordinates": "chr12:121416346-121440315",
+    "disease": "MODY | type 2 diabetes mellitus | diabetes mellitus | maturity-onset diabetes of the young type 3 | type 1 diabetes mellitus | monogenic diabetes | maturity-onset diabetes of the young"
+  },
+  {
+    "hgnc_id": "HGNC:618",
+    "hgnc_gene_name": "apolipoprotein L1",
+    "gene_aliases": "APOL",
+    "hg38_coordinates": "chr22:36253071-36267530",
+    "hg19_coordinates": "chr22:36649056-36663576",
+    "disease": "focal segmental glomerulosclerosis | chronic kidney disease | kidney disease | Proteinuria | kidney failure | Nephrotic range proteinuria"
+  },
+  {
+    "hgnc_id": "HGNC:644",
+    "hgnc_gene_name": "androgen receptor",
+    "gene_aliases": "AIS | NR3C4 | SMAX1 | HUMARA | DHTR | SBMA",
+    "hg38_coordinates": "chrX:67543353-67730619",
+    "hg19_coordinates": "chrX:66764465-66950461",
+    "disease": "partial androgen insensitivity syndrome"
+  },
+  {
+    "hgnc_id": "HGNC:4868",
+    "hgnc_gene_name": "HECT and RLD domain containing E3 ubiquitin protein ligase 2",
+    "gene_aliases": "jdf2 | p528 | D15F37S1",
+    "hg38_coordinates": "chr15:28111040-28322179",
+    "hg19_coordinates": "chr15:28356186-28567298",
+    "disease": "developmental delay with autism spectrum disorder and gait instability | eye color"
+  }
+]
