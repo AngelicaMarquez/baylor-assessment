@@ -1,0 +1,53 @@
+hgnc_id     disease_name                                                          
+----------  ----------------------------------------------------------------------
+HGNC:11621  MODY                                                                  
+HGNC:11621  diabetes mellitus                                                     
+HGNC:11621  maturity-onset diabetes of the young                                  
+HGNC:11621  maturity-onset diabetes of the young type 3                           
+HGNC:11621  monogenic diabetes                                                    
+HGNC:11621  type 1 diabetes mellitus                                              
+HGNC:11621  type 2 diabetes mellitus                                              
+HGNC:13394  Nephrotic range proteinuria                                           
+HGNC:13394  Proteinuria                                                           
+HGNC:13394  congenital nephrotic syndrome, Finnish type                           
+HGNC:13394  familial idiopathic steroid-resistant nephrotic syndrome              
+HGNC:13394  focal segmental glomerulosclerosis                                    
+HGNC:13394  genetic disorder                                                      
+HGNC:13394  nephrotic syndrome                                                    
+HGNC:13394  nephrotic syndrome, type 2                                            
+HGNC:19903  Abnormal nasolacrimal system morphology                               
+HGNC:19903  cardiomyopathy                                                        
+HGNC:19903  genetic disorder                                                      
+HGNC:19903  heart disease                                                         
+HGNC:19903  heart failure                                                         
+HGNC:19903  hypomagnesemia 7, renal, with or without dilated cardiomyopathy       
+HGNC:19903  nephrocalcinosis                                                      
+HGNC:2204   Alport syndrome                                                       
+HGNC:2204   Alport syndrome 3b, autosomal recessive                               
+HGNC:2204   autosomal dominant Alport syndrome                                    
+HGNC:2204   autosomal recessive Alport syndrome                                   
+HGNC:4868   developmental delay with autism spectrum disorder and gait instability
+HGNC:4868   eye color                                                             
+HGNC:618    Nephrotic range proteinuria                                           
+HGNC:618    Proteinuria                                                           
+HGNC:618    chronic kidney disease                                                
+HGNC:618    focal segmental glomerulosclerosis                                    
+HGNC:618    kidney disease                                                        
+HGNC:618    kidney failure                                                        
+HGNC:644    partial androgen insensitivity syndrome                               
+HGNC:7060   Short palm                                                            
+HGNC:7060   genetic disorder                                                      
+HGNC:7060   total joint arthroplasty                                              
+
+------------------------------------------------------------------------
+
+hgnc_id     hgnc_gene_name                                                gene_aliases                              
+----------  ------------------------------------------------------------  ------------------------------------------
+HGNC:11621  HNF1 homeobox A                                               HNF1 | HNF1α | LFB1 | MODY3 | TCF1        
+HGNC:13394  NPHS2 stomatin family member, podocin                         PDCN | SRN1                               
+HGNC:19903  Ras related GTP binding D                                     DKFZP761H171 | bA11D8.2.1                 
+HGNC:2204   collagen type IV alpha 3 chain                                                                          
+HGNC:4868   HECT and RLD domain containing E3 ubiquitin protein ligase 2  D15F37S1 | jdf2 | p528                    
+HGNC:618    apolipoprotein L1                                             APOL                                      
+HGNC:644    androgen receptor                                             AIS | DHTR | HUMARA | NR3C4 | SBMA | SMAX1
+HGNC:7060   matrix Gla protein                                                                                      
